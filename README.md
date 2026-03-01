@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://drive.google.com/drive/folders/1wAQgbCXbdnJ3NL9ND5k25zT53Cn01oWO?usp=sharing"><img src="https://img.shields.io/badge/ALAMIN_CV-255E63?style=for-the-badge&logo=CV&logoColor=white"></a>
+<a href="https://drive.google.com/drive/folders/1wAQgbCXbdnJ3NL9ND5k25zT53Cn01oWO"><img src="https://img.shields.io/badge/ALAMIN_CV-255E63?style=for-the-badge&logo=CV&logoColor=white"></a>
 
 </div>
 
